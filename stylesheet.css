@@ -42,3 +42,7 @@ ol p{
 img{
   border: 4px #CEBEBE double;
 }
+
+img:hover{
+  border-style: solid;
+}
